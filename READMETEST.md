@@ -1,4 +1,5 @@
 TestRedCapital
+
 Respuestas a prueba técnica Red Capital
 
 EN BASE A LAS 3 TABLAS PRESENTADAS (Compra, Detalle_Compra, Categoria), las consultas con ORM Eloquent son;
